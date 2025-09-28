@@ -6,3 +6,4 @@ scikit-learn
 pandas
 tf-keras
 numpy
+huggingface_hub 

@@ -4,7 +4,7 @@ from huggingface_hub import login
 import os
 
 
-MODEL_NAME = "https://huggingface.co/KavanaPadaki/distilbert-imdb"  
+MODEL_NAME = "KavanaPadaki/distilbert-imdb"  
 
 @st.cache_resource
 def load_model(model_name):

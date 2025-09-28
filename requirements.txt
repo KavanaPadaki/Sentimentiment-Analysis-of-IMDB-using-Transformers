@@ -4,4 +4,5 @@ torch
 tensorflow
 scikit-learn
 pandas
+tf-keras
 numpy
